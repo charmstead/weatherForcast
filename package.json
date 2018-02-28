@@ -1,0 +1,22 @@
+{
+  "name": "weatherforecast",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "axios": "^0.17.1",
+    "body-parser": "~1.18.2",
+    "cookie-parser": "~1.4.3",
+    "csvjson": "^5.0.0",
+    "csvtojson": "^1.1.9",
+    "debug": "~2.6.9",
+    "ejs": "~2.5.7",
+    "express": "~4.15.5",
+    "moment": "^2.20.1",
+    "mongoose": "^5.0.7",
+    "morgan": "~1.9.0",
+    "serve-favicon": "~2.4.5"
+  }
+}
