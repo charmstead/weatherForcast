@@ -1,0 +1,455 @@
+#EXTM3U
+#EXTINF:-1,TR:TRT SPOR HD
+http://portal.germanyservers.de:8000/live/1234/1234/5979.m3u8
+#EXTINF:-1,TR:A SPOR HD
+http://portal.germanyservers.de:8000/live/1234/1234/5987.m3u8
+#EXTINF:-1,TR:FANATIK
+http://portal.germanyservers.de:8000/live/1234/1234/34217.m3u8
+#EXTINF:-1,TR:MALATYA SPOR
+http://portal.germanyservers.de:8000/live/1234/1234/34214.m3u8
+#EXTINF:-1,TR:EUROSPORT 1 HD
+http://portal.germanyservers.de:8000/live/1234/1234/5977.m3u8
+#EXTINF:-1,TR:EUROSPORT 2 HD
+http://portal.germanyservers.de:8000/live/1234/1234/5976.m3u8
+#EXTINF:-1,TR:S SPORT HD
+http://portal.germanyservers.de:8000/live/1234/1234/5982.m3u8
+#EXTINF:-1,TR:S SPORT 2 HD (MACTA ACiK)
+http://portal.germanyservers.de:8000/live/1234/1234/34764.m3u8
+#EXTINF:-1,TR:LIFEPLUS
+http://portal.germanyservers.de:8000/live/1234/1234/18426.m3u8
+#EXTINF:-1,TR:NBA TV HD
+http://portal.germanyservers.de:8000/live/1234/1234/5984.m3u8
+#EXTINF:-1,TR:SMARTSPOR 1 HD
+http://portal.germanyservers.de:8000/live/1234/1234/5967.m3u8
+#EXTINF:-1,TR:SMARTSPOR 1 SD
+http://portal.germanyservers.de:8000/live/1234/1234/7423.m3u8
+#EXTINF:-1,TR:SPORTS TV HD
+http://portal.germanyservers.de:8000/live/1234/1234/5978.m3u8
+#EXTINF:-1,TR:BJK TV HD
+http://portal.germanyservers.de:8000/live/1234/1234/5990.m3u8
+#EXTINF:-1,TR:FB TV HD
+http://portal.germanyservers.de:8000/live/1234/1234/5988.m3u8
+#EXTINF:-1,TR:GS TV HD
+http://portal.germanyservers.de:8000/live/1234/1234/5989.m3u8
+#EXTINF:-1,TR:TJK TV
+http://portal.germanyservers.de:8000/live/1234/1234/5918.m3u8
+#EXTINF:-1,TR:TIVIBU SPOR 1 HD
+http://portal.germanyservers.de:8000/live/1234/1234/5975.m3u8
+#EXTINF:-1,TR:TIVIBU SPOR 1 SD
+http://portal.germanyservers.de:8000/live/1234/1234/5971.m3u8
+#EXTINF:-1,TR:TIVIBU SPOR 2 HD
+http://portal.germanyservers.de:8000/live/1234/1234/5974.m3u8
+#EXTINF:-1,TR:TIVIBU SPOR 2 SD
+http://portal.germanyservers.de:8000/live/1234/1234/5970.m3u8
+#EXTINF:-1,TR:TIVIBU SPOR 3 HD
+http://portal.germanyservers.de:8000/live/1234/1234/5973.m3u8
+#EXTINF:-1,TR:TIVIBU SPOR 3 SD
+http://portal.germanyservers.de:8000/live/1234/1234/5969.m3u8
+#EXTINF:-1,TR:BEINSPORTS HABER HD
+http://portal.germanyservers.de:8000/live/1234/1234/9665.m3u8
+#EXTINF:-1,TR:BEIN SPORTS 1 HD (H265) 50 FPS
+http://portal.germanyservers.de:8000/live/1234/1234/33621.m3u8
+#EXTINF:-1,TR:BEINSPORTS 1 HD
+http://portal.germanyservers.de:8000/live/1234/1234/5964.m3u8
+#EXTINF:-1,TR:BEINSPORTS 1 SD (KOTA DOSTU)
+http://portal.germanyservers.de:8000/live/1234/1234/5955.m3u8
+#EXTINF:-1,TR:BEIN SPORT 1 SD (DUSUK INTERNET)
+http://portal.germanyservers.de:8000/live/1234/1234/19898.m3u8
+#EXTINF:-1,TR:BEINSPORTS 2 HD
+http://portal.germanyservers.de:8000/live/1234/1234/5963.m3u8
+#EXTINF:-1,TR:BEINSPORTS 2 SD (KOTA DOSTU)
+http://portal.germanyservers.de:8000/live/1234/1234/5954.m3u8
+#EXTINF:-1,TR:BEINSPORTS 3 HD
+http://portal.germanyservers.de:8000/live/1234/1234/5958.m3u8
+#EXTINF:-1,TR:BEINSPORTS 3 SD (KOTA DOSTU)
+http://portal.germanyservers.de:8000/live/1234/1234/5953.m3u8
+#EXTINF:-1,TR:BEINSPORTS 4 HD
+http://portal.germanyservers.de:8000/live/1234/1234/5957.m3u8
+#EXTINF:-1,TR:BEINSPORTS 4 SD (KOTA DOSTU)
+http://portal.germanyservers.de:8000/live/1234/1234/5952.m3u8
+#EXTINF:-1,TR:BEINSPORTS MAX HD
+http://portal.germanyservers.de:8000/live/1234/1234/7877.m3u8
+#EXTINF:-1,TR:BEINSPORTS MAX 2 HD
+http://portal.germanyservers.de:8000/live/1234/1234/7933.m3u8
+#EXTINF:-1,TR:TRT SPOR UHD
+http://portal.germanyservers.de:8000/live/1234/1234/11791.m3u8
+#EXTINF:-1,TR:A SPOR UHD
+http://portal.germanyservers.de:8000/live/1234/1234/11790.m3u8
+#EXTINF:-1,TR:BEINSPORTS 4K
+http://portal.germanyservers.de:8000/live/1234/1234/15531.m3u8
+#EXTINF:-1,TR:BEINSPORTS 1 UHD
+http://portal.germanyservers.de:8000/live/1234/1234/8003.m3u8
+#EXTINF:-1,TR:BEINSPORTS 2 UHD
+http://portal.germanyservers.de:8000/live/1234/1234/8004.m3u8
+#EXTINF:-1,TR:BEINSPORTS 3 UHD
+http://portal.germanyservers.de:8000/live/1234/1234/8005.m3u8
+#EXTINF:-1,TR:BEINSPORTS 4 UHD
+http://portal.germanyservers.de:8000/live/1234/1234/8006.m3u8
+#EXTINF:-1,TR:BEINSPORTS MAX UHD
+http://portal.germanyservers.de:8000/live/1234/1234/8007.m3u8
+#EXTINF:-1,TR:BEINSPORTS MAX 2 UHD
+http://portal.germanyservers.de:8000/live/1234/1234/8008.m3u8
+#EXTINF:-1,DE:SKY SPORT NEWS UHD
+http://portal.germanyservers.de:8000/live/1234/1234/17973.m3u8
+#EXTINF:-1,DE:SKY BUNDESLIGA 1 UHD
+http://portal.germanyservers.de:8000/live/1234/1234/17931.m3u8
+#EXTINF:-1,DE:SKY BUNDESLIGA 2 UHD
+http://portal.germanyservers.de:8000/live/1234/1234/17932.m3u8
+#EXTINF:-1,DE:DAZN 1 BAR UHD
+http://portal.germanyservers.de:8000/live/1234/1234/17942.m3u8
+#EXTINF:-1,DE:DAZN 2 BAR UHD
+http://portal.germanyservers.de:8000/live/1234/1234/17943.m3u8
+#EXTINF:-1,DE:SPORT 1 UHD
+http://portal.germanyservers.de:8000/live/1234/1234/17974.m3u8
+#EXTINF:-1,DE:SKY 1 UHD
+http://portal.germanyservers.de:8000/live/1234/1234/17964.m3u8
+#EXTINF:-1,DE:Sport Digital UHD
+http://portal.germanyservers.de:8000/live/1234/1234/27520.m3u8
+#EXTINF:-1,DE:EUROSPORT 1 HD
+http://portal.germanyservers.de:8000/live/1234/1234/6263.m3u8
+#EXTINF:-1,DE:EUROSPORT 2 HD
+http://portal.germanyservers.de:8000/live/1234/1234/17911.m3u8
+#EXTINF:-1,DE:Telekom Fussball 1 HD
+http://portal.germanyservers.de:8000/live/1234/1234/27370.m3u8
+#EXTINF:-1,DE:Sky Teleclub Sport 1
+http://portal.germanyservers.de:8000/live/1234/1234/27653.m3u8
+#EXTINF:-1,DE:Sky Teleclub Sport 2
+http://portal.germanyservers.de:8000/live/1234/1234/27654.m3u8
+#EXTINF:-1,DE:Sky Teleclub Sport 3
+http://portal.germanyservers.de:8000/live/1234/1234/27655.m3u8
+#EXTINF:-1,DE:SKY SPORT NEWS HD
+http://portal.germanyservers.de:8000/live/1234/1234/6256.m3u8
+#EXTINF:-1,DE:SKY SPORT AVUSTRIA HD
+http://portal.germanyservers.de:8000/live/1234/1234/17984.m3u8
+#EXTINF:-1,DE:Dazn Bar 1 HD
+http://portal.germanyservers.de:8000/live/1234/1234/35510.m3u8
+#EXTINF:-1,DE:Dazn Bar 2 HD
+http://portal.germanyservers.de:8000/live/1234/1234/35511.m3u8
+#EXTINF:-1,DE:EUROSPORT 2 XTRA HD
+http://portal.germanyservers.de:8000/live/1234/1234/8009.m3u8
+#EXTINF:-1,DE:SPORT 1 HD
+http://portal.germanyservers.de:8000/live/1234/1234/6190.m3u8
+#EXTINF:-1,DE: SPORT 1+
+http://portal.germanyservers.de:8000/live/1234/1234/18716.m3u8
+#EXTINF:-1,DE:SPORT DIGITAL HD
+http://portal.germanyservers.de:8000/live/1234/1234/17938.m3u8
+#EXTINF:-1,DE:ORF SPORT
+http://portal.germanyservers.de:8000/live/1234/1234/18437.m3u8
+#EXTINF:-1,DE:AUTO MOTOR SPORT HD
+http://portal.germanyservers.de:8000/live/1234/1234/17914.m3u8
+#EXTINF:-1,FR:FOOT 24 HD
+http://portal.germanyservers.de:8000/live/1234/1234/15705.m3u8
+#EXTINF:-1,FR:EQUIDIA LIVE HD
+http://portal.germanyservers.de:8000/live/1234/1234/15704.m3u8
+#EXTINF:-1,FR:L EQUIPE 21 HD
+http://portal.germanyservers.de:8000/live/1234/1234/15703.m3u8
+#EXTINF:-1,FR:AB MOTEUR HD
+http://portal.germanyservers.de:8000/live/1234/1234/15702.m3u8
+#EXTINF:-1,FR:INFO SPORT HD
+http://portal.germanyservers.de:8000/live/1234/1234/15701.m3u8
+#EXTINF:-1,FR:INFOSPORT HD
+http://portal.germanyservers.de:8000/live/1234/1234/27544.m3u8
+#EXTINF:-1,FR:EURONEWS HD
+http://portal.germanyservers.de:8000/live/1234/1234/27545.m3u8
+#EXTINF:-1,FR:EUROSPORT 1 HD
+http://portal.germanyservers.de:8000/live/1234/1234/15700.m3u8
+#EXTINF:-1,FR:EUROSPORT 2 HD
+http://portal.germanyservers.de:8000/live/1234/1234/15699.m3u8
+#EXTINF:-1,FR:RMC SPORT 1 HD
+http://portal.germanyservers.de:8000/live/1234/1234/15698.m3u8
+#EXTINF:-1,FR:RMC SPORT 2 HD
+http://portal.germanyservers.de:8000/live/1234/1234/15697.m3u8
+#EXTINF:-1,FR:RMC SPORT 3 HD
+http://portal.germanyservers.de:8000/live/1234/1234/15696.m3u8
+#EXTINF:-1,FR:RMC SPORT 4 HD
+http://portal.germanyservers.de:8000/live/1234/1234/27559.m3u8
+#EXTINF:-1,FR:RMC SPORT ACCESS 1
+http://portal.germanyservers.de:8000/live/1234/1234/27553.m3u8
+#EXTINF:-1,FR:RMC SPORT ACCESS 2
+http://portal.germanyservers.de:8000/live/1234/1234/27552.m3u8
+#EXTINF:-1,FR:RMC SPORT ACCESS 3
+http://portal.germanyservers.de:8000/live/1234/1234/27551.m3u8
+#EXTINF:-1,FR:RMC SPORT ACCESS 4
+http://portal.germanyservers.de:8000/live/1234/1234/27550.m3u8
+#EXTINF:-1,FR:BEINSPORT 1 HD
+http://portal.germanyservers.de:8000/live/1234/1234/15695.m3u8
+#EXTINF:-1,FR:BEINSPORT 2 HD
+http://portal.germanyservers.de:8000/live/1234/1234/15694.m3u8
+#EXTINF:-1,FR:BEINSPORT 3 HD
+http://portal.germanyservers.de:8000/live/1234/1234/15693.m3u8
+#EXTINF:-1,FR:BEINSPORT 4 MAX
+http://portal.germanyservers.de:8000/live/1234/1234/15692.m3u8
+#EXTINF:-1,FR:BEINSPORT 5 MAX
+http://portal.germanyservers.de:8000/live/1234/1234/15691.m3u8
+#EXTINF:-1,FR:BEINSPORT 6 MAX
+http://portal.germanyservers.de:8000/live/1234/1234/15690.m3u8
+#EXTINF:-1,FR:BEINSPORT 7 MAX
+http://portal.germanyservers.de:8000/live/1234/1234/15689.m3u8
+#EXTINF:-1,FR:CANAL SPORT HD
+http://portal.germanyservers.de:8000/live/1234/1234/15650.m3u8
+#EXTINF:-1,NL:Ziggo Sport eXtra 1
+http://portal.germanyservers.de:8000/live/1234/1234/25970.m3u8
+#EXTINF:-1,NL:Ziggo Sport eXtra 2
+http://portal.germanyservers.de:8000/live/1234/1234/25969.m3u8
+#EXTINF:-1,NL:Ziggo Sport Golf
+http://portal.germanyservers.de:8000/live/1234/1234/25973.m3u8
+#EXTINF:-1,NL:Ziggo Sport Racing
+http://portal.germanyservers.de:8000/live/1234/1234/25972.m3u8
+#EXTINF:-1,NL:Ziggo Sport Select HD
+http://portal.germanyservers.de:8000/live/1234/1234/25971.m3u8
+#EXTINF:-1,NL:Ziggo Sport Voetbal
+http://portal.germanyservers.de:8000/live/1234/1234/25974.m3u8
+#EXTINF:-1,NL:FOX SPORTS 1 HD
+http://portal.germanyservers.de:8000/live/1234/1234/25968.m3u8
+#EXTINF:-1,NL:FOX SPORTS 2 HD
+http://portal.germanyservers.de:8000/live/1234/1234/25967.m3u8
+#EXTINF:-1,NL:FOX SPORTS 3 HD EREDIVISIE
+http://portal.germanyservers.de:8000/live/1234/1234/25966.m3u8
+#EXTINF:-1,NL:FOX SPORTS 4 HD
+http://portal.germanyservers.de:8000/live/1234/1234/25965.m3u8
+#EXTINF:-1,NL:FOX SPORTS 5 HD EREDIVISIE HD
+http://portal.germanyservers.de:8000/live/1234/1234/25964.m3u8
+#EXTINF:-1,NO:Viasat Sport
+http://portal.germanyservers.de:8000/live/1234/1234/26015.m3u8
+#EXTINF:-1,NO:Viasat Sport HD
+http://portal.germanyservers.de:8000/live/1234/1234/26014.m3u8
+#EXTINF:-1,AZ:IDMAN TV
+http://portal.germanyservers.de:8000/live/1234/1234/34220.m3u8
+#EXTINF:-1,AZ:CBC SPORT HD
+http://portal.germanyservers.de:8000/live/1234/1234/34219.m3u8
+#EXTINF:-1,AL:K Sport 1
+http://portal.germanyservers.de:8000/live/1234/1234/26661.m3u8
+#EXTINF:-1,AL:K Sport 2
+http://portal.germanyservers.de:8000/live/1234/1234/26660.m3u8
+#EXTINF:-1,AL:TRING SPORT 1 HD
+http://portal.germanyservers.de:8000/live/1234/1234/26614.m3u8
+#EXTINF:-1,AL:Tring Sport 2 -Tring TV
+http://portal.germanyservers.de:8000/live/1234/1234/26639.m3u8
+#EXTINF:-1,AL:TRING SPORT 2 HD
+http://portal.germanyservers.de:8000/live/1234/1234/26613.m3u8
+#EXTINF:-1,AL:TRING SPORT 3 HD
+http://portal.germanyservers.de:8000/live/1234/1234/26612.m3u8
+#EXTINF:-1,AL:TRING SPORT 4 HD
+http://portal.germanyservers.de:8000/live/1234/1234/26611.m3u8
+#EXTINF:-1,ALB:Super Sport 1 HD
+http://portal.germanyservers.de:8000/live/1234/1234/26610.m3u8
+#EXTINF:-1,ALB:Super Sport 2 HD
+http://portal.germanyservers.de:8000/live/1234/1234/26609.m3u8
+#EXTINF:-1,AL:Super Sport 3 HD
+http://portal.germanyservers.de:8000/live/1234/1234/26608.m3u8
+#EXTINF:-1,AL:Super Sport 4 HD
+http://portal.germanyservers.de:8000/live/1234/1234/26607.m3u8
+#EXTINF:-1,GR:OTE SPORTS 1 HD
+http://portal.germanyservers.de:8000/live/1234/1234/27181.m3u8
+#EXTINF:-1,GR:OTE SPORTS  2 HD
+http://portal.germanyservers.de:8000/live/1234/1234/27180.m3u8
+#EXTINF:-1,GR:OTE SPORTS  3 HD
+http://portal.germanyservers.de:8000/live/1234/1234/27179.m3u8
+#EXTINF:-1,GR:OTE SPORTS  4 HD
+http://portal.germanyservers.de:8000/live/1234/1234/27178.m3u8
+#EXTINF:-1,GR:OTE SPORTS 5 HD
+http://portal.germanyservers.de:8000/live/1234/1234/27177.m3u8
+#EXTINF:-1,GR:OTE SPORTS 6 HD
+http://portal.germanyservers.de:8000/live/1234/1234/27176.m3u8
+#EXTINF:-1,GR:OTE SPORTS 7 HD
+http://portal.germanyservers.de:8000/live/1234/1234/27175.m3u8
+#EXTINF:-1,GR:OTE SPORTS 8 HD
+http://portal.germanyservers.de:8000/live/1234/1234/27174.m3u8
+#EXTINF:-1,PL:Eleven Sports HD
+http://portal.germanyservers.de:8000/live/1234/1234/27018.m3u8
+#EXTINF:-1,PL:EUROSPORT
+http://portal.germanyservers.de:8000/live/1234/1234/27017.m3u8
+#EXTINF:-1,PL:EUROSPORT2
+http://portal.germanyservers.de:8000/live/1234/1234/27016.m3u8
+#EXTINF:-1,PL:POLSAT SPORT EXTRA HD
+http://portal.germanyservers.de:8000/live/1234/1234/27003.m3u8
+#EXTINF:-1,PL:POLSAT SPORTS NEWS HD
+http://portal.germanyservers.de:8000/live/1234/1234/27002.m3u8
+#EXTINF:-1,RU:MATCH  FOOTBAALL1 HD
+http://portal.germanyservers.de:8000/live/1234/1234/26976.m3u8
+#EXTINF:-1,RU:MATCH ARENA HD
+http://portal.germanyservers.de:8000/live/1234/1234/26973.m3u8
+#EXTINF:-1,RU:MATCH FOOTBAALL2 HD
+http://portal.germanyservers.de:8000/live/1234/1234/26975.m3u8
+#EXTINF:-1,RU:MATCH FOOTBAALL3 HD
+http://portal.germanyservers.de:8000/live/1234/1234/26974.m3u8
+#EXTINF:-1,RU:MATCH SPORTS
+http://portal.germanyservers.de:8000/live/1234/1234/26972.m3u8
+#EXTINF:-1,RU:MATCH TV
+http://portal.germanyservers.de:8000/live/1234/1234/26971.m3u8
+#EXTINF:-1,BG:DIEMA SPORT 1 HD
+http://portal.germanyservers.de:8000/live/1234/1234/26126.m3u8
+#EXTINF:-1,BG:DIEMA SPORT 2 HD
+http://portal.germanyservers.de:8000/live/1234/1234/26125.m3u8
+#EXTINF:-1,US:Fox Sports 1 HD
+http://portal.germanyservers.de:8000/live/1234/1234/26939.m3u8
+#EXTINF:-1,US:Fox Sports 2 HD
+http://portal.germanyservers.de:8000/live/1234/1234/26938.m3u8
+#EXTINF:-1,AR:BEIN SPORTS 1 HD
+http://portal.germanyservers.de:8000/live/1234/1234/26302.m3u8
+#EXTINF:-1,AR:BEIN SPORTS 2 HD
+http://portal.germanyservers.de:8000/live/1234/1234/26301.m3u8
+#EXTINF:-1,AR:BEIN SPORTS 3 HD
+http://portal.germanyservers.de:8000/live/1234/1234/26300.m3u8
+#EXTINF:-1,AR:BEIN SPORTS 4 HD
+http://portal.germanyservers.de:8000/live/1234/1234/26299.m3u8
+#EXTINF:-1,AR:BEIN SPORTS 5 HD
+http://portal.germanyservers.de:8000/live/1234/1234/26298.m3u8
+#EXTINF:-1,AR:BEIN SPORTS 6 HD
+http://portal.germanyservers.de:8000/live/1234/1234/26297.m3u8
+#EXTINF:-1,AR:BEIN SPORTS 7 HD
+http://portal.germanyservers.de:8000/live/1234/1234/26296.m3u8
+#EXTINF:-1,AR:BEIN SPORTS 8 HD
+http://portal.germanyservers.de:8000/live/1234/1234/26295.m3u8
+#EXTINF:-1,AR:BEIN SPORTS 9 HD
+http://portal.germanyservers.de:8000/live/1234/1234/26294.m3u8
+#EXTINF:-1,AR:BEIN SPORTS 10 HD
+http://portal.germanyservers.de:8000/live/1234/1234/26293.m3u8
+#EXTINF:-1,AR:BEIN SPORTS 11 HD
+http://portal.germanyservers.de:8000/live/1234/1234/26292.m3u8
+#EXTINF:-1,AR:BEIN SPORTS 12 HD
+http://portal.germanyservers.de:8000/live/1234/1234/26291.m3u8
+#EXTINF:-1,AR:AD SPORT 1
+http://portal.germanyservers.de:8000/live/1234/1234/26347.m3u8
+#EXTINF:-1,AR:AD SPORT 2
+http://portal.germanyservers.de:8000/live/1234/1234/26346.m3u8
+#EXTINF:-1,CH:TELECLUB SPORT 1
+http://portal.germanyservers.de:8000/live/1234/1234/26539.m3u8
+#EXTINF:-1,CH:TELECLUB SPORT 2
+http://portal.germanyservers.de:8000/live/1234/1234/26538.m3u8
+#EXTINF:-1,PT:SPORT TV 1 HD
+http://portal.germanyservers.de:8000/live/1234/1234/26549.m3u8
+#EXTINF:-1,PT:SPORT TV 2 HD
+http://portal.germanyservers.de:8000/live/1234/1234/26548.m3u8
+#EXTINF:-1,PT:SPORT TV 3 HD
+http://portal.germanyservers.de:8000/live/1234/1234/26547.m3u8
+#EXTINF:-1,PT:SPORT TV 4 HD
+http://portal.germanyservers.de:8000/live/1234/1234/26546.m3u8
+#EXTINF:-1,PT:SPORT TV 5 HD
+http://portal.germanyservers.de:8000/live/1234/1234/26545.m3u8
+#EXTINF:-1,PT:SPORTING TV HD
+http://portal.germanyservers.de:8000/live/1234/1234/26544.m3u8
+#EXTINF:-1,RO:DIGI SPORT 1 HD
+http://portal.germanyservers.de:8000/live/1234/1234/26199.m3u8
+#EXTINF:-1,RO:DIGI SPORT 2 HD
+http://portal.germanyservers.de:8000/live/1234/1234/26198.m3u8
+#EXTINF:-1,RO:DIGI SPORT 3 HD
+http://portal.germanyservers.de:8000/live/1234/1234/26197.m3u8
+#EXTINF:-1,RO:DIGI SPORT 4 HD
+http://portal.germanyservers.de:8000/live/1234/1234/26196.m3u8
+#EXTINF:-1,RO:Sport Klub 1
+http://portal.germanyservers.de:8000/live/1234/1234/26202.m3u8
+#EXTINF:-1,RO:Sport Klub 2
+http://portal.germanyservers.de:8000/live/1234/1234/26201.m3u8
+#EXTINF:-1,RO:Sport Klub 3
+http://portal.germanyservers.de:8000/live/1234/1234/26200.m3u8
+#EXTINF:-1,IT:Dazn Sport 1 FHD VIP IT
+http://portal.germanyservers.de:8000/live/1234/1234/26709.m3u8
+#EXTINF:-1,IT:Dazn Sport 10 FHD VIP IT
+http://portal.germanyservers.de:8000/live/1234/1234/26700.m3u8
+#EXTINF:-1,IT:Dazn Sport 2 FHD VIP IT
+http://portal.germanyservers.de:8000/live/1234/1234/26708.m3u8
+#EXTINF:-1,IT:Dazn Sport 3 FHD VIP IT
+http://portal.germanyservers.de:8000/live/1234/1234/26707.m3u8
+#EXTINF:-1,IT:Dazn Sport 4 FHD VIP IT
+http://portal.germanyservers.de:8000/live/1234/1234/26706.m3u8
+#EXTINF:-1,IT:Dazn Sport 5 FHD VIP IT
+http://portal.germanyservers.de:8000/live/1234/1234/26705.m3u8
+#EXTINF:-1,IT:Dazn Sport 6 FHD VIP IT
+http://portal.germanyservers.de:8000/live/1234/1234/26704.m3u8
+#EXTINF:-1,IT:Dazn Sport 7 FHD VIP IT
+http://portal.germanyservers.de:8000/live/1234/1234/26703.m3u8
+#EXTINF:-1,IT:Dazn Sport 8 FHD VIP IT
+http://portal.germanyservers.de:8000/live/1234/1234/26702.m3u8
+#EXTINF:-1,IT:Dazn Sport 9 FHD VIP IT
+http://portal.germanyservers.de:8000/live/1234/1234/26701.m3u8
+#EXTINF:-1,IT:PREMIUM SPORT
+http://portal.germanyservers.de:8000/live/1234/1234/26721.m3u8
+#EXTINF:-1,IT:PREMIUM SPORT 2
+http://portal.germanyservers.de:8000/live/1234/1234/26719.m3u8
+#EXTINF:-1,IT:PREMIUM SPORT 2 HD
+http://portal.germanyservers.de:8000/live/1234/1234/26718.m3u8
+#EXTINF:-1,IT:PREMIUM SPORT HD
+http://portal.germanyservers.de:8000/live/1234/1234/26720.m3u8
+#EXTINF:-1,IT:RAI SPORT 1
+http://portal.germanyservers.de:8000/live/1234/1234/26726.m3u8
+#EXTINF:-1,IT:RAI SPORT 1 HD
+http://portal.germanyservers.de:8000/live/1234/1234/26725.m3u8
+#EXTINF:-1,IT:RAI SPORT 2
+http://portal.germanyservers.de:8000/live/1234/1234/26724.m3u8
+#EXTINF:-1,UK:BT SPORT 1
+http://portal.germanyservers.de:8000/live/1234/1234/33240.m3u8
+#EXTINF:-1,UK:BT SPORT 2
+http://portal.germanyservers.de:8000/live/1234/1234/33239.m3u8
+#EXTINF:-1,UK:BT SPORT 3
+http://portal.germanyservers.de:8000/live/1234/1234/33238.m3u8
+#EXTINF:-1,UK:BT SPORTS ESPN HD
+http://portal.germanyservers.de:8000/live/1234/1234/33237.m3u8
+#EXTINF:-1,UK:SKY SPORT CRICKET HD
+http://portal.germanyservers.de:8000/live/1234/1234/33233.m3u8
+#EXTINF:-1,UK:Sky Sport Main Event HD
+http://portal.germanyservers.de:8000/live/1234/1234/33229.m3u8
+#EXTINF:-1,UK:SKY SPORTS ACTION HD
+http://portal.germanyservers.de:8000/live/1234/1234/33232.m3u8
+#EXTINF:-1,UK:SKY SPORTS ARENA HD
+http://portal.germanyservers.de:8000/live/1234/1234/33234.m3u8
+#EXTINF:-1,UK:SKY SPORTS F1 HD
+http://portal.germanyservers.de:8000/live/1234/1234/33230.m3u8
+#EXTINF:-1,UK:SKY SPORTS GOLF HD
+http://portal.germanyservers.de:8000/live/1234/1234/33231.m3u8
+#EXTINF:-1,UK:Sky Sports Premier League
+http://portal.germanyservers.de:8000/live/1234/1234/33228.m3u8
+#EXTINF:-1,EX-YU:ARENA SPORT 1 HD
+http://portal.germanyservers.de:8000/live/1234/1234/27079.m3u8
+#EXTINF:-1,EXYU:ARENA SPORT 1 HD
+http://portal.germanyservers.de:8000/live/1234/1234/27116.m3u8
+#EXTINF:-1,EXYU:Arena Sport 2 HD
+http://portal.germanyservers.de:8000/live/1234/1234/27115.m3u8
+#EXTINF:-1,EXYU:Arena Sport 3 HD
+http://portal.germanyservers.de:8000/live/1234/1234/27114.m3u8
+#EXTINF:-1,EXYU:Arena Sport 4 HD
+http://portal.germanyservers.de:8000/live/1234/1234/27113.m3u8
+#EXTINF:-1,EXYU:Arena Sport 5 HD
+http://portal.germanyservers.de:8000/live/1234/1234/27112.m3u8
+#EXTINF:-1,EXYU:SPORT KLUB 1 HD
+http://portal.germanyservers.de:8000/live/1234/1234/27109.m3u8
+#EXTINF:-1,EXYU:SPORT KLUB 2 HD
+http://portal.germanyservers.de:8000/live/1234/1234/27108.m3u8
+#EXTINF:-1,EXYU:SPORT KLUB 3 HD
+http://portal.germanyservers.de:8000/live/1234/1234/27107.m3u8
+#EXTINF:-1,HR:ARENA SPORT 1 HD
+http://portal.germanyservers.de:8000/live/1234/1234/27111.m3u8
+#EXTINF:-1,HR:ARENA SPORT 2 HD
+http://portal.germanyservers.de:8000/live/1234/1234/27110.m3u8
+#EXTINF:-1,HR:ARENA SPORT 2 SD
+http://portal.germanyservers.de:8000/live/1234/1234/27078.m3u8
+#EXTINF:-1,HR:ARENA SPORT 3 HD
+http://portal.germanyservers.de:8000/live/1234/1234/27077.m3u8
+#EXTINF:-1,HR:ARENA SPORT 4 HD
+http://portal.germanyservers.de:8000/live/1234/1234/27076.m3u8
+#EXTINF:-1,HR:ARENA SPORT 5 HD
+http://portal.germanyservers.de:8000/live/1234/1234/27075.m3u8
+#EXTINF:-1,HR:ARENA SPORT 6 HD
+http://portal.germanyservers.de:8000/live/1234/1234/27074.m3u8
+#EXTINF:-1,HR:Sport Klub 1 HD
+http://portal.germanyservers.de:8000/live/1234/1234/27085.m3u8
+#EXTINF:-1,HR:Sport Klub 2 HD
+http://portal.germanyservers.de:8000/live/1234/1234/27084.m3u8
+#EXTINF:-1,HR:Sport Klub 3 HD
+http://portal.germanyservers.de:8000/live/1234/1234/27083.m3u8
+#EXTINF:-1,HR:Sport Klub 4
+http://portal.germanyservers.de:8000/live/1234/1234/27082.m3u8
+#EXTINF:-1,HR:Sport Klub 5
+http://portal.germanyservers.de:8000/live/1234/1234/27081.m3u8
+#EXTINF:-1,HR:Sport Klub 6
+http://portal.germanyservers.de:8000/live/1234/1234/27080.m3u8
+#EXTINF:-1,SLO:SPORT TV 1 HD
+http://portal.germanyservers.de:8000/live/1234/1234/27106.m3u8
+#EXTINF:-1,SLO:SPORT TV 2 HD
+http://portal.germanyservers.de:8000/live/1234/1234/27105.m3u8
+#EXTINF:-1,SLO:SPORT TV 3 HD
+http://portal.germanyservers.de:8000/live/1234/1234/27104.m3u8
+#EXTINF:-1,DK:TV3 SPORT 1
+http://portal.germanyservers.de:8000/live/1234/1234/26037.m3u8
+#EXTINF:-1,DK:TV3 SPORT 2 HD
+http://portal.germanyservers.de:8000/live/1234/1234/26036.m3u8

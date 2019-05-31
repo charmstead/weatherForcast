@@ -7,6 +7,12 @@ const moment = require('moment');
 
 let csvJson = [];
 
+router.post('/', function(req, res, next) {
+  console.log("1: "+JSON.stringify(req.body));
+  console.log("2: "+JSON.stringify(req.params));
+  res.send('respond with a resource');
+});
+
 /* GET historical data. */
 router.get('/historical', function (req, res, next) {
 
