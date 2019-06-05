@@ -64,3 +64,42 @@ http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=bein13
 
 #EXTINF:0,All Sports
 http://173.236.10.10:1935/dgrau/dgrau/live.m3u8?v=1768957477
+
+#EXTINF:0,Bt Sports 1
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=btsport1
+
+#EXTINF:0,Bt Sports 2
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=btsport2
+
+#EXTINF:0,Bt Sports Europe
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=bteurope
+
+#EXTINF:0,Sky Sports 1
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=skysport1
+
+#EXTINF:0,Sky Sports 2
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=skysport2
+
+#EXTINF:0,Sky Sports 3
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=skysport3
+
+#EXTINF:0,Sky Sports 4
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=skysport4
+
+#EXTINF:0,Sky Sports 5
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=skysport5
+
+#EXTINF:0,ON Sport 1
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=on_sport
+
+#EXTINF:0,ON Sport 2
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=onsport
+
+#EXTINF:0,ON Sport 3
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=ONtvLIVE
+
+#EXTINF:0,fox Sport 1
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=foxsports1
+
+#EXTINF:0,fox Sport 2
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=foxsports2
