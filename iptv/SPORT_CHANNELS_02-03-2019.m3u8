@@ -33,3 +33,31 @@ http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports4
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports5
 #EXTINF:0,Abu Dhabi Sports 6
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports6
+
+#EXTINF:0,KTV Sports 1
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=ktv_sport1
+
+#EXTINF:0,KTV Sports
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=ktv_sport
+
+#EXTINF:0,KTV Sports 2
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=ktv_sport2
+
+#EXTINF:0,KTV 3 plus
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=ktv3plus
+
+#EXTINF:0,Kw Sports plus 1
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=kw_sport_plus_1
+
+#EXTINF:0,Kw Sports plus 2
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=kw_sport_plus_2
+
+
+#EXTINF:0,Bein Sports 1 EN
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=bein11
+
+#EXTINF:0,Bein Sports 2 EN
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=bein12
+
+#EXTINF:0,Bein Sports 3 EN
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=bein13
