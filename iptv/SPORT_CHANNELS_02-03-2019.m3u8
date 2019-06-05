@@ -61,3 +61,6 @@ http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=bein12
 
 #EXTINF:0,Bein Sports 3 EN
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=bein13
+
+#EXTINF:0,All Sports
+http://173.236.10.10:1935/dgrau/dgrau/live.m3u8?v=1768957477
